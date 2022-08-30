@@ -1,0 +1,7 @@
+.book{
+  color: rgb(79, 218, 242);
+  padding: 40px 0 40px 30px;
+  /* margin-left: -150px; */
+  /* margin-right: 20px; */
+  transform: scale(2.5);
+}
